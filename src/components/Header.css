@@ -1,0 +1,15 @@
+nav {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    background-color: #333;
+    height: 70px;
+    align-items: center;
+    font-weight: 700;
+}
+a {
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    color: whitesmoke;
+    font-size: x-large;
+}
